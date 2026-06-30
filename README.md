@@ -8,13 +8,13 @@
 
 ## Authors
 
-| Name | Registration Number |
-|---|---|
-| Ishaan Dey | 25BIT0169 |
-| Trishir Saxena | 25BME0478 |
-| Bharatvaj J | 25BAI0221 |
-| Anushka Varshney | 25BCE0343 |
-| Sai Sabarish Vurimi | 25BCE2249 |
+| Name |
+|---|
+| Ishaan Dey | 
+| Trishir Saxena | 
+| Bharatvaj J | 
+| Anushka Varshney | 
+| Sai Sabarish Vurimi | 
 
 ---
 
